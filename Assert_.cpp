@@ -16,6 +16,7 @@ namespace Lesha {
 
 	void Assert_(bool expression)
 	{
+		//assert(expression);
 		assert(expression);
 	}
 
